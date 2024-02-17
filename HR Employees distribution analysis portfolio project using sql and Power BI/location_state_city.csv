@@ -1,0 +1,81 @@
+location_state,location_city,count
+Wisconsin,Appleton,15
+Wisconsin,"Green Bay",26
+Wisconsin,Madison,111
+Wisconsin,Milwaukee,138
+Wisconsin,Racine,16
+Pennsylvania,Allentown,17
+Pennsylvania,Bethlehem,15
+Pennsylvania,Erie,91
+Pennsylvania,Harrisburg,74
+Pennsylvania,Johnstown,9
+Pennsylvania,Lancaster,26
+Pennsylvania,Levittown,17
+Pennsylvania,"Mc Keesport",10
+Pennsylvania,"New Castle",16
+Pennsylvania,Philadelphia,268
+Pennsylvania,Pittsburgh,229
+Pennsylvania,Reading,28
+Pennsylvania,Scranton,29
+Pennsylvania,"Valley Forge",12
+Pennsylvania,"Wilkes Barre",40
+Pennsylvania,York,11
+Ohio,Akron,102
+Ohio,Canton,70
+Ohio,Cincinnati,221
+Ohio,Cleveland,13233
+Ohio,Columbus,139
+Ohio,Dayton,161
+Ohio,Hamilton,12
+Ohio,Lima,15
+Ohio,Mansfield,17
+Ohio,Springfield,13
+Ohio,Toledo,105
+Ohio,Warren,21
+Ohio,Youngstown,35
+Michigan,"Ann Arbor",15
+Michigan,"Battle Creek",12
+Michigan,Dearborn,12
+Michigan,Detroit,165
+Michigan,Farmington,20
+Michigan,Flint,45
+Michigan,"Grand Rapids",73
+Michigan,Kalamazoo,35
+Michigan,Lansing,87
+Michigan,Midland,12
+Michigan,Muskegon,15
+Michigan,Saginaw,18
+Michigan,Southfield,19
+Michigan,Troy,10
+Michigan,Warren,12
+Kentucky,Frankfort,8
+Kentucky,Lexington,154
+Kentucky,London,11
+Kentucky,Louisville,174
+Indiana,Anderson,18
+Indiana,Bloomington,15
+Indiana,Crawfordsville,12
+Indiana,Evansville,96
+Indiana,"Fort Wayne",117
+Indiana,Gary,22
+Indiana,Indianapolis,154
+Indiana,Jeffersonville,9
+Indiana,Lafayette,13
+Indiana,Muncie,14
+Indiana,"South Bend",50
+Indiana,"Terre Haute",25
+Illinois,Aurora,17
+Illinois,Bloomington,10
+Illinois,"Carol Stream",22
+Illinois,Champaign,13
+Illinois,Chicago,283
+Illinois,Decatur,10
+Illinois,"East Saint Louis",15
+Illinois,Evanston,11
+Illinois,Joliet,12
+Illinois,Naperville,11
+Illinois,Palatine,16
+Illinois,Peoria,107
+Illinois,Rockford,33
+Illinois,Schaumburg,16
+Illinois,Springfield,122
